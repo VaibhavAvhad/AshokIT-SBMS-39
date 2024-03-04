@@ -1,0 +1,28 @@
+package com.cc;
+
+public class ATM {
+
+	Ipayment payment;
+	
+	public ATM() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public ATM(Ipayment payment) {
+		
+		this.payment = payment;
+	}
+
+
+	public void setPayment(Ipayment payment) {
+		System.out.println("inside setter method of ATM class");
+		this.payment=payment;
+	}
+	
+	
+	public void withdraw() {
+		System.out.println("withdraw money successfully");
+		payment.print();
+	}
+	
+}

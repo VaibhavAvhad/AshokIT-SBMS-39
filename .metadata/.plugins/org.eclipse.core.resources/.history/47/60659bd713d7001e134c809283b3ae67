@@ -1,0 +1,9 @@
+package com.cc;
+
+public class ATM {
+
+	public void withdraw() {
+		System.out.println("withdraw money successfully");
+	}
+	
+}

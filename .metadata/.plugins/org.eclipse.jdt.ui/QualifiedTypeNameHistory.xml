@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.ashokit.Ipayment"/>
+    <fullyQualifiedTypeName name="com.ccavenue.DebitCardPayent"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="com.ccavenue.RestuarantService"/>
+    <fullyQualifiedTypeName name="com.ccavenue.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="com.ccavenue.Ipayment"/>
+    <fullyQualifiedTypeName name="com.cc.service.UserService"/>
+    <fullyQualifiedTypeName name="com.cc.dao.UserDao"/>
+    <fullyQualifiedTypeName name="java.beans.Encoder"/>
+    <fullyQualifiedTypeName name="java.util.Base64.Encoder"/>
+    <fullyQualifiedTypeName name="java.util.Base64"/>
+    <fullyQualifiedTypeName name="com.cc.PasswordService"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Appendable"/>
+    <fullyQualifiedTypeName name="com.cc.Engine"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+    <fullyQualifiedTypeName name="com.cc.Ipayment"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="javax.swing.table.AbstractTableModel"/>
+    <fullyQualifiedTypeName name="com.cc.ATM"/>
+    <fullyQualifiedTypeName name="com.ashokit.CreditCardPayment"/>
+    <fullyQualifiedTypeName name="com.ashokit.RestaurantService"/>
+    <fullyQualifiedTypeName name="com.ashokit.DebitCardPayment"/>
+</qualifiedTypeNameHistroy>
