@@ -6,8 +6,8 @@
 
     <!-- bean definitions here -->
     
-    <bean id="hp" class="com.cc.HPPrinter" primary="true"/>
-    <bean id="payment" class="com.cc.SonyPrinter"/>
+    <bean id="hp" class="com.cc.HPPrinter"/>
+    <bean id="payment" class="com.cc.SonyPrinter" primary="true"/>
     
     <!--<bean id="atm" class="com.cc.ATM" autowire="byName">-->
 		<!--<constructor-arg ref="sony"/>
@@ -15,9 +15,8 @@
 		
 	<!--	<bean id="atm" class="com.cc.ATM" autowire="byType">-->
 		
-		<bean id="atm" class="com.cc.ATM" autowire="constructor
-		">
+	<bean id="atm" class="com.cc.ATM" autowire="constructor">
 		
     </bean>
-
+<!--Note: There is a chance of getting ambiguity in byType mode.-->
 </beans>

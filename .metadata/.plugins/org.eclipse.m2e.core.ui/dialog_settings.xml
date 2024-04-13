@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Ashok IT\sbms39\08-collection-Injection"/>
 			<item value="D:\Ashok IT\sbms39\06-Bean-Life-Cycle"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -44,6 +45,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.ccavenue"/>
 			<item value="com.cc"/>
 			<item value="cc-avenues"/>
 			<item value="CCavenue"/>
@@ -52,6 +54,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="09-Spring_jdbc-App"/>
+			<item value="08-collection-Injection"/>
 			<item value="07-Autowiring"/>
 			<item value="06-Bean-Life-Cycle"/>
 			<item value="05-beans-Scope"/>
@@ -73,5 +77,19 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Vaibhav\Dropbox\PC\Downloads\10-Spring-Boot-App\10-Spring-Boot-App"/>
+			<item value="C:\Users\Vaibhav\Dropbox\PC\Downloads\10-SpringBootApp\10-SpringBootApp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

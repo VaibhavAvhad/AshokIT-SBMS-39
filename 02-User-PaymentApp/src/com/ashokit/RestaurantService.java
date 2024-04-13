@@ -10,10 +10,12 @@ public class RestaurantService {
 	 }
 	
 	public RestaurantService(Ipayment payment) {
+		System.out.println("inside a RestaurantService Constructor ");
 		this.payment=payment;
 	}
 	
 	public void setPayment(Ipayment payment) {
+		System.out.println("inside a RestaurantService Setter Method ");
 		this.payment=payment;
 	}
 	

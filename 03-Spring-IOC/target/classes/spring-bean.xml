@@ -5,7 +5,7 @@
 
 	<!-- bean definitions here -->
 
-	<bean id="debitCard" class="com.ccavenue.DebitCardPayent" scope="singleton" />
+	<bean id="debitCard" class="com.ccavenue.DebitCardPayent" scope="prototype" />
 	
 	<bean id="creditCard" class="com.ccavenue.CreditCardPayment" />
 	
